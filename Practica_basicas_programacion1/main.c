@@ -18,7 +18,7 @@ int main()
 
     int resultado_suma=suma(a,b);
 
-    printf("El resultado de la suma es %d", suma),
+    printf("El resultado de la suma es %d", resultado_suma);
 
     return 0;
 }
