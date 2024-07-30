@@ -1,5 +1,10 @@
 # depslib dependency file v1.0
-1721866508 source:c:\users\gc\documents\github\programacion1-practica-git\practica_basicas_programacion1\main.c
+1722368891 source:c:\users\gc\documents\github\programacion1-practica-git\practica_basicas_programacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria_practica.h"
+
+1722368952 c:\users\gc\documents\github\programacion1-practica-git\practica_basicas_programacion1\libreria_practica.h
 	<stdio.h>
 	<stdlib.h>
 

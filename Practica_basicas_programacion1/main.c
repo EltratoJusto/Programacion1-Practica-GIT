@@ -1,14 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-// Declaracion de la funcion suma
-int suma(int a, int b);
-
-// FUNCION SUMA
-int suma(int a, int b)
-{
-return a+b;
-}
+#include "Libreria_practica.h"
 
 int main()
 {
